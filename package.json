@@ -1,5 +1,5 @@
 {
-  "name": "node-tripletex",
+  "name": "@crystallize/node-tripletex",
   "version": "1.0.0",
   "description": "A Connector Crystallize and  Tripletex API",
   "main": "index.js",
