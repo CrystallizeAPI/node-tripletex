@@ -1,0 +1,35 @@
+{
+  "name": "node-tripletex",
+  "version": "0.0.0",
+  "description": "A Connector Crystallize and  Tripletex API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ow": "^0.18.0",
+    "type-fest": "^0.17.0",
+    "cross-fetch": "^3.0.6",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystallizeAPI/node-tripletex.git"
+  },
+  "keywords": [
+    "tripletex",
+    "crystallize",
+    "api",
+    "module"
+  ],
+  "author": "Crystallize Admin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrystallizeAPI/node-tripletex/issues"
+  },
+  "homepage": "https://github.com/CrystallizeAPI/node-tripletex#readme"
+}
