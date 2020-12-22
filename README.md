@@ -1,6 +1,6 @@
 # node-tripletex
 
-Node Tripletex SDK for easy Tripletex integration in Node.JS. Generic Tripletex Node integration with specific support for the [Crystallize headless ecommerce serce](https://crystallize.com/).
+Node Tripletex SDK for easy Tripletex integration in Node.JS. Generic Tripletex Node integration with specific support for the [Crystallize headless ecommerce service](https://crystallize.com/).
 
 Crystallize enables you to build your next-gen e-commerce business by the help of [Fast GraphQL API Service](https://crystallize.com/product/graphql-commerce-api) backed by super structured [Product Information Management (PIM)](https://crystallize.com/product/product-information-management)
 
