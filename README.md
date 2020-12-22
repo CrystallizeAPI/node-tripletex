@@ -16,7 +16,7 @@ yarn add @crystallize/node-tripletex
 
 ### Initiate the client<br/>
 
-```
+```js
 const client = new TripletexClient({
     testDrive: true,
     consumerToken: "MY_TRIPLETEX_CONSUMER_TOKEN",
@@ -26,36 +26,36 @@ const client = new TripletexClient({
 
 ### Create an Access Token<br/>
 
-```
+```js
 await client.getAccessToken();
 ```
 
 ### Fetch all Inventories<br/>
 
-```
+```js
 await client.getInventories();
 ```
 
 ### Get all VAT Types<br/>
 
-```
+```js
 await client.getVatTypes();
 ```
 
 ### Create an Order<br/>
 
-```
+```js
 await client.createOrder(cartData);
 ```
 
 ### Create an OrderLine<br/>
 
-```
+```js
 await client.createOrderLine(orderLineData);
 ```
 
 ### Create a Customer<br/>
 
-```
+```js
 await client.createCustomer(customerData);
 ```
